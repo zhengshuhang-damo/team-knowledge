@@ -8,6 +8,7 @@
 team-knowledge/
 ├── knowledge/                # 知识框架文档
 │   ├── ai-coding/            # AI 辅助开发经验
+│   ├── specs/                # 官方规范 PDF（AMBA CHI、RISC-V 等）
 │   └── verification/         # 验证方法论
 ├── skills/
 │   └── custom/               # 团队自定义 Qoder Skill
