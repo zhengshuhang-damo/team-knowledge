@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Chrome profile (用于 slide 渲染的缓存)
+.chrome-profile/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Build artifacts
+*.pptx
+!slides/**/output/*.pptx
+
+# Temporary files
+*.tmp
+*.bak
